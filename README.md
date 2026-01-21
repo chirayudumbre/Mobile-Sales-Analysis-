@@ -3,79 +3,80 @@
 📝 Overview
 
 This repository contains an interactive Power BI dashboard developed to analyze mobile phone sales performance across India.
-The dashboard provides key business metrics and actionable insights related to sales, transactions, customer behavior, payment methods, and regional performance, supporting data-driven decision-making.
+The dashboard provides key business metrics and actionable insights related to sales, transactions, customer behavior, payment methods, and regional performance, enabling data-driven decision-making.
 
 📌 Key Metrics
 
-Total Sales: 769M
+- Total Sales: 769M
 
-Total Quantity Sold: 19K
+- Total Quantity Sold: 19K
 
-Total Transactions: 4K
+- Total Transactions: 4K
 
-Average Sales Value: 40.11K
+- Average Sales Value: 40.11K
 
 📈 Dashboard Insights
 
-Month-wise analysis of mobile sales trends
+- Month-wise analysis of mobile sales trends
 
-City-wise and region-wise sales distribution using map visualizations
+- City-wise and region-wise sales distribution using map visualizations
 
-Brand-wise comparison of total sales and quantity sold
+- Brand-wise comparison of total sales and quantity sold
 
-Performance evaluation of top-selling mobile models
+- Performance evaluation of top-selling mobile models
 
-Analysis of payment method distribution (UPI, Debit Card, Credit Card, Cash)
+- Analysis of payment method distribution (UPI, Debit Card, Credit Card, Cash)
 
-Customer rating analysis and its impact on sales performance
+- Customer rating analysis and its impact on sales performance
 
 ⚙️ Features
 
-Interactive month-wise slicer for time-based analysis
+- Interactive month-wise slicer for time-based analysis
 
-Mobile model filters for focused and detailed insights
+- Mobile model filters for focused and detailed insights
 
-Dynamic KPIs and visualizations for performance tracking
+- Dynamic KPIs and visualizations for performance tracking
+
+- Optimized dashboard design for mobile view
 
 🛠️ Tools and Technologies
 
-Power BI Desktop
+1. Power BI Desktop
 
-Power Query for data transformation
+2. Power Query for data transformation
 
-DAX (Data Analysis Expressions) for calculated measures and KPIs
+3. DAX (Data Analysis Expressions) for calculated measures and KPIs
 
-Excel / CSV files as data sources
+4. Excel / CSV files as data sources
 
 🗂️ Dataset Description
 
 The dataset includes the following attributes:
 
-Mobile Brand and Model
+1. Mobile Brand and Model
 
-Sales Amount
+2. Sales Amount
 
-Quantity Sold
+3. Quantity Sold
 
-Transaction Details
+4. Transaction Details
 
-Payment Method
+5. Payment Method
 
-Customer Ratings
+6. Customer Ratings
 
-Sales Date
+7. Sales Date
 
-City and Region
+8. City and Region
 
-The dataset is used solely for learning and analytical purposes.
+⚠️ The dataset is used solely for learning and analytical purposes.
 
 🎯 Project Objective
 
-To analyze mobile sales data using business intelligence techniques
+- Analyze mobile sales data using business intelligence techniques
 
-To design an interactive and user-friendly Power BI dashboard
+- Design an interactive and user-friendly Power BI dashboard
 
-To extract meaningful insights to support business decisions
+- Extract meaningful insights to support business decisions
 
-To demonstrate practical skills in Power BI and data analytics
-
+- Demonstrate practical skills in Power BI and Data Analytics
