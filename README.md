@@ -1,10 +1,12 @@
 📊 Power BI Mobile Sales Dashboard
+---
 
 📝 Overview
 
 This repository contains an interactive Power BI dashboard developed to analyze mobile phone sales performance across India.
 The dashboard provides key business metrics and actionable insights related to sales, transactions, customer behavior, payment methods, and regional performance, enabling data-driven decision-making.
 
+---
 📌 Key Metrics
 
 - Total Sales: 769M
@@ -14,6 +16,7 @@ The dashboard provides key business metrics and actionable insights related to s
 - Total Transactions: 4K
 
 - Average Sales Value: 40.11K
+---
 
 📈 Dashboard Insights
 
@@ -28,6 +31,7 @@ The dashboard provides key business metrics and actionable insights related to s
 - Analysis of payment method distribution (UPI, Debit Card, Credit Card, Cash)
 
 - Customer rating analysis and its impact on sales performance
+---
 
 ⚙️ Features
 
@@ -38,6 +42,7 @@ The dashboard provides key business metrics and actionable insights related to s
 - Dynamic KPIs and visualizations for performance tracking
 
 - Optimized dashboard design for mobile view
+---
 
 🛠️ Tools and Technologies
 
@@ -48,6 +53,7 @@ The dashboard provides key business metrics and actionable insights related to s
 3. DAX (Data Analysis Expressions) for calculated measures and KPIs
 
 4. Excel / CSV files as data sources
+---
 
 🗂️ Dataset Description
 
@@ -69,7 +75,9 @@ The dataset includes the following attributes:
 
 8. City and Region
 
-⚠️ The dataset is used solely for learning and analytical purposes.
+  (The dataset is used solely for learning and analytical purposes.)
+
+---
 
 🎯 Project Objective
 
