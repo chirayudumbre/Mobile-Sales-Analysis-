@@ -1,53 +1,81 @@
 📊 Power BI Mobile Sales Dashboard
 
-An interactive Power BI dashboard designed to analyze mobile phone sales performance across India.
-This project provides key insights into total sales, quantity sold, transactions, customer ratings, payment methods, and regional performance using dynamic visualizations.
+📝 Overview
 
-🚀 Key Highlights
+This repository contains an interactive Power BI dashboard developed to analyze mobile phone sales performance across India.
+The dashboard provides key business metrics and actionable insights related to sales, transactions, customer behavior, payment methods, and regional performance, supporting data-driven decision-making.
 
-💰 Total Sales: 769M
-📦 Total Quantity Sold: 19K
-🔁 Total Transactions: 4K
-📊 Average Sales Value: 40.11K
+📌 Key Metrics
 
-📌 Key Insights & Visuals
+Total Sales: 769M
 
-📅 Month-wise sales trends showing fluctuations throughout the year
-🌍 City-wise and region-wise sales distribution using map visualization
-📱 Top-selling mobile models (iPhone SE, OnePlus Nord, Galaxy Note 20)
-🏷️ Brand-wise sales and quantity comparison (Apple, Samsung, OnePlus, Vivo, Xiaomi)
-💳 Payment method analysis (UPI, Debit Card, Credit Card, Cash)
-⭐ Customer rating analysis and its impact on total sales
+Total Quantity Sold: 19K
 
-🎛️ Dashboard Features
+Total Transactions: 4K
 
-Interactive month slicer for time-based analysis
-Mobile model filters for detailed drill-down
-Dynamic charts and KPIs for better decision-making
+Average Sales Value: 40.11K
 
-🛠️ Tools & Technologies Used
+📈 Dashboard Insights
+
+Month-wise analysis of mobile sales trends
+
+City-wise and region-wise sales distribution using map visualizations
+
+Brand-wise comparison of total sales and quantity sold
+
+Performance evaluation of top-selling mobile models
+
+Analysis of payment method distribution (UPI, Debit Card, Credit Card, Cash)
+
+Customer rating analysis and its impact on sales performance
+
+⚙️ Features
+
+Interactive month-wise slicer for time-based analysis
+
+Mobile model filters for focused and detailed insights
+
+Dynamic KPIs and visualizations for performance tracking
+
+🛠️ Tools and Technologies
 
 Power BI Desktop
-Power Query for data cleaning and transformation
-DAX for calculated measures and KPIs
-Excel / CSV as data source
 
-📂 Dataset Information
+Power Query for data transformation
 
-The dataset includes:
+DAX (Data Analysis Expressions) for calculated measures and KPIs
 
-Mobile Brand & Model
+Excel / CSV files as data sources
+
+🗂️ Dataset Description
+
+The dataset includes the following attributes:
+
+Mobile Brand and Model
+
 Sales Amount
+
 Quantity Sold
+
 Transaction Details
+
 Payment Method
+
 Customer Ratings
-Date and Location (City-wise)
-(Dataset used for analytical and learning purposes.)
+
+Sales Date
+
+City and Region
+
+The dataset is used solely for learning and analytical purposes.
 
 🎯 Project Objective
 
 To analyze mobile sales data using business intelligence techniques
-To build an interactive and user-friendly dashboard
-To derive meaningful insights to support data-driven decision making
-To strengthen hands-on experience with Power BI & Data Analytics
+
+To design an interactive and user-friendly Power BI dashboard
+
+To extract meaningful insights to support business decisions
+
+To demonstrate practical skills in Power BI and data analytics
+
